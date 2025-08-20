@@ -1,0 +1,5 @@
+name: pipeline_dados_climaticos
+version: '1.0'
+profile: dw_clima
+
+model-paths: ["lakehouse/models"]
